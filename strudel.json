@@ -1,1 +1,5 @@
-{"samples":["/README.md","/strudel.json"],"temptation":["/temptation/drums.wav"],"_base":"http://localhost:5432"}
+{
+    "temptation":["/temptation/drums.wav"],
+    "so_what_intro":["/so-what/intro-loop.ogg"],
+    "_base":"https://raw.githubusercontent.com/xurizaemon/samples/main/"
+}
