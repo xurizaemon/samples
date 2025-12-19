@@ -1,7 +1,7 @@
 {
-    "temptation/drums":["/temptation/drums.wav"],
-    "temptation/bass":["/temptation/wah.m4a", "/temptation/bass.wav"],
-    "so_what/intro_loop":["/so-what/intro-loop.ogg"],
-    "so_what/sample":["/so-what/sample-1.ogg", "/so-what/sample-2.ogg"],
+    "temptation_drums":["/temptation/drums.wav"],
+    "temptation_bass":["/temptation/wah.m4a", "/temptation/bass.wav"],
+    "so_what_intro_loop":["/so-what/intro-loop.ogg"],
+    "so_what_sample":["/so-what/sample-1.ogg", "/so-what/sample-2.ogg"],
     "_base":"https://raw.githubusercontent.com/xurizaemon/samples/main/"
 }
