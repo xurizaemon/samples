@@ -1,6 +1,7 @@
 {
-    "temptation":["/temptation/drums.wav"],
-    "so_what_intro":["/so-what/intro-loop.ogg"],
-    "so_what_intro_2":["/so-what/2025-11-08-1.ogg"],
+    "temptation/drums":["/temptation/drums.wav"],
+    "temptation/bass":["/temptation/wah.m4a", "/temptation/bass.wav"],
+    "so_what/intro_loop":["/so-what/intro-loop.ogg"],
+    "so_what/sample":["/so-what/sample-1.ogg", "/so-what/sample-2.ogg"],
     "_base":"https://raw.githubusercontent.com/xurizaemon/samples/main/"
 }
